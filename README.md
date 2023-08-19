@@ -1,4 +1,4 @@
-# COntact Keeper
+# Contact Keeper
 
 [Live Site](https://contacthubapp.netlify.app/ "Contact Keeper")
 
