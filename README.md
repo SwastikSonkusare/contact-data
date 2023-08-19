@@ -9,7 +9,7 @@
 # Introduction
 
 A contact keeper app which allows user to create, read, update and delete this contact. The dashboard section of the app displays the graphs of world wide covid cases and country specific cases.
-This app is build using html, css, javascript, react, react-leaflet and react-chartjs-2
+This app is build using html, css, javascript, react, react-query, react-router, react-leaflet and react-chartjs-2
 
 ### Setup to start the development server
 
